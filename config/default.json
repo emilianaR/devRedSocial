@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://emidb:emidb@devconnect-yuk7j.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtToken": "secretToken"
+}
